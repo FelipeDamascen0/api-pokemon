@@ -1,0 +1,25 @@
+.mainContainer{
+  max-width: 1280px;
+  margin: 0 auto;
+  
+}
+
+.listContainer{
+  padding: 20px;
+  border: 1px solid rgb(187, 184, 184);
+  margin: 10px 0 10px 0;
+  color: #fff;
+}
+
+.mainContainer button{
+  margin-bottom: 20px;
+ 
+}
+
+button{
+  border: none;
+  padding:  10px 20px;
+  margin-left: 10px;
+  background-color: #333;
+  color: #fff;
+}
